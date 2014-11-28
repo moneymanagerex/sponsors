@@ -41,6 +41,7 @@ sponsors
 37. Sergio M. Aranda
 38. Petr Prikryl
 39. Marco Secchi
+40. Pedro Rocha
 
 #### 2005-2013
 1. CodeLathe LLC
