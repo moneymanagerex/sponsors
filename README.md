@@ -42,6 +42,7 @@ sponsors
 38. Petr Prikryl
 39. Marco Secchi
 40. Pedro Rocha
+41. Steve Hefferman
 
 #### 2005-2013
 1. CodeLathe LLC
