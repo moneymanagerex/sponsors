@@ -1,6 +1,11 @@
 sponsors
 ========
 
+#### 2015
+##### Jan
+1. Heinrich Hasler
+2. Michael Cockshott
+
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
 2. Geoff Mulhall
