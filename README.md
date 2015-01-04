@@ -7,6 +7,7 @@ sponsors
 2. Michael Cockshott
 3. Krisztian Rada
 4. Michele Chinellato
+5. Rudolf Leuenberger
 
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
