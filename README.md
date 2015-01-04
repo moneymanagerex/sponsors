@@ -5,6 +5,8 @@ sponsors
 ##### Jan
 1. Heinrich Hasler
 2. Michael Cockshott
+3. Krisztian Rada
+4. Michele Chinellato
 
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
