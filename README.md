@@ -9,6 +9,7 @@ sponsors
 4. Michele Chinellato
 5. Rudolf Leuenberger
 6. Gregory Majewski
+7. Bruno MAILLARD
 
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
