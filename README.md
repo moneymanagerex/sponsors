@@ -11,7 +11,7 @@ sponsors
 6. Gregory Majewski
 7. Bruno MAILLARD
 8. Yury Siamashka
-
+9. Adam Bishop
 
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
