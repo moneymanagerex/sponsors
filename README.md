@@ -12,6 +12,7 @@ sponsors
 7. Bruno MAILLARD
 8. Yury Siamashka
 9. Adam Bishop
+10. Michael Scutt
 
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
