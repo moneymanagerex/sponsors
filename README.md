@@ -13,6 +13,7 @@ sponsors
 8. Yury Siamashka
 9. Adam Bishop
 10. Michael Scutt
+11. Kurt Tremp
 
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
