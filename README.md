@@ -4,6 +4,7 @@ sponsors
 #### 2015
 ##### Feb
 1. Christophe DEMETRIADIS
+
 ##### Jan
 1. Heinrich Hasler
 2. Michael Cockshott
