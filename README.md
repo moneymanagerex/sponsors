@@ -4,6 +4,7 @@ sponsors
 #### 2015
 ##### Feb
 1. Christophe DEMETRIADIS
+2. Olzo Franco Solano
 
 ##### Jan
 1. Heinrich Hasler
