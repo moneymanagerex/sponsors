@@ -5,6 +5,7 @@ sponsors
 ##### Feb
 1. Christophe DEMETRIADIS
 2. Olzo Franco Solano
+3. BRUECKNER RENE
 
 ##### Jan
 1. Heinrich Hasler
