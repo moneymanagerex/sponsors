@@ -6,6 +6,8 @@ sponsors
 1. Christophe DEMETRIADIS
 2. Olzo Franco Solano
 3. BRUECKNER RENE
+4. David Piears
+5. CHRISTIAN SCHOENENBERGER
 
 ##### Jan
 1. Heinrich Hasler
