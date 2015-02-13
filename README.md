@@ -8,6 +8,7 @@ sponsors
 3. BRUECKNER RENE
 4. David Piears
 5. CHRISTIAN SCHOENENBERGER
+6. Todd Smith
 
 ##### Jan
 1. Heinrich Hasler
