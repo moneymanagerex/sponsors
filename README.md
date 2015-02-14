@@ -9,6 +9,7 @@ sponsors
 4. David Piears
 5. CHRISTIAN SCHOENENBERGER
 6. Todd Smith
+7. Thomas Prior
 
 ##### Jan
 1. Heinrich Hasler
