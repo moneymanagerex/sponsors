@@ -10,6 +10,7 @@ sponsors
 5. CHRISTIAN SCHOENENBERGER
 6. Todd Smith
 7. Thomas Prior
+8. Filippo Levati
 
 ##### Jan
 1. Heinrich Hasler
