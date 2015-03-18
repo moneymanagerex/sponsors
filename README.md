@@ -1,37 +1,7 @@
 sponsors
 ========
 
-#### 2015
-#### Mar
-1. Erich Oswald
-2. Martin Kopecky
-
-##### Feb
-1. Christophe DEMETRIADIS
-2. Olzo Franco Solano
-3. BRUECKNER RENE
-4. David Piears
-5. CHRISTIAN SCHOENENBERGER
-6. Todd Smith
-7. Thomas Prior
-8. Filippo Levati
-
-##### Jan
-1. Heinrich Hasler
-2. Michael Cockshott
-3. Krisztian Rada
-4. Michele Chinellato
-5. Rudolf Leuenberger
-6. Gregory Majewski
-7. Bruno MAILLARD
-8. Yury Siamashka
-9. Adam Bishop
-10. Michael Scutt
-11. Kurt Tremp
-12. JEAN GUILLEN
-13. Peter Hulm
-14. CHIEN YI-YUN
-
+#### [year of 2015](2015.csv)
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
 2. Geoff Mulhall
