@@ -1,7 +1,7 @@
 sponsors
 ========
 
-#### [year of 2015](2015.csv)
+#### [Year of 2015](2015.csv)
 #### 2014
 1. [CodeLathe LLC](http://www.tonido.com/)
 2. Geoff Mulhall
