@@ -1,4 +1,4 @@
-date, name 
+date, name, Currency, amount
 2015-01-01,Heinrich Hasler
 2015-01-01,Michael Cockshott
 2015-01-03,Krisztian Rada
@@ -15,7 +15,7 @@ date, name
 2015-01-28,CHIEN YI-YUN
 2015-02-01,Christophe DEMETRIADIS
 2015-02-06,Olzo Franco Solano
-2015-02-07,BRUECKNER RENE
+2015-02-07,BRUECKNER RENE,U.S. Dollars,50
 2015-02-11,David Piears
 2015-02-12,CHRISTIAN SCHOENENBERGER
 2015-02-13,Todd Smith
@@ -28,12 +28,17 @@ date, name
 2015-04-06,Balázs Terjék
 2015-04-07,Nina Neuhaus
 2015-04-08,Roman Riabenko
-2015-04-09,Urs Wuffli
+2015-04-09,Urs Wuffli,U.S. Dollars,50
 2015-04-11,AF Christensen
 2015-04-14,Kevin Luken
-2015-04-24,Richard Watts
+2015-04-24,Richard Watts,U.S. Dollars,50
 2015-05-18,Terry Mort
 2015-05-22,Kieron McGeever
-2015-05-26,Paul Croft
+2015-05-26,Paul Croft,U.S. Dollars,50
 2015-06-18,Daniele Leucci
 2015-06-18,Julio Gomez
+2015-06-27,Stephane Vitalis-brun,U.S. Dollars,15
+2015-07-02,Lukáš Novák,U.S. Dollars,10
+2015-07-06,Sezer Gülsay,U.S. Dollars,5
+2015-07-08,Emanuele Fabbri,U.S. Dollars,10
+2015-07-08,Style Scissors,U.S. Dollars,5
