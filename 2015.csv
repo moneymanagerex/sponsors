@@ -1,4 +1,4 @@
-date, name, Currency, amount
+date, name, currency, amount
 2015-01-01,Heinrich Hasler,U.S. Dollars,5
 2015-01-01,Michael Cockshott,U.S. Dollars,20
 2015-01-03,Krisztian Rada,U.S. Dollars,20
