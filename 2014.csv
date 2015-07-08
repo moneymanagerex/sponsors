@@ -1,49 +1,49 @@
-date,name
-2014-01-01,[CodeLathe LLC](http://www.tonido.com/)
-2014-01-23,Geoff Mulhall
-2014-01-26,Fabio Toffolo	
-2014-02-09,Bruce McLendon
-2014-03-14,Dimitrios Valsamis
-2014-03-17,Eleanor Batchelder
-2014-03-29,Pascal Fürhoff
-2014-04-04,Panos Sapikas
-2014-04-15,Panagiotis Sapikas
-2014-04-16,Jean-François GATEAU
-2014-04-29,Janos Horvath
-2014-06-17,Douglas R Taylor
-2014-06-23,Sasa Mrvos
-2014-06-27,Xiaoyun Wang
-2014-07-14,marco secchi
-2014-07-30,Ken Huband
-2014-08-02,巩 固
-2014-08-04,Matt Young
-2014-08-04,Михаил Зайченко
-2014-08-07,Adam Gallagher
-2014-08-19,barry plotkind
-2014-08-19,Jiri Pitzmos
-2014-08-27,Jasmine Glaese
-2014-08-30,Alain Scheidle
-2014-08-30,Frédéric Vandendris
-2014-08-31,Chris Butler
-2014-09-05,Abdul Malik
-2014-09-08,Michael Schickenberg
-2014-09-24,Glenn Silberman
-2014-10-01,Gerardo Villalobos Pineda
-2014-10-02,Javier LLaneza Braña
-2014-10-12,Michael Creswell
-2014-10-15,Martin Freye
-2014-10-30,Franciscus Johannes van der Loo
-2014-11-11,Michel Aroichane
-2015-11-04,Carl Bolling
-2015-11-04,Alain Rouault
-2014-11-04,David Tomlin
-2014-11-04,SERGIO M.ARANDA
-2014-11-05,Petr Prikryl
-2014-11-12,LA CASTELLINA snc di Cappelli Faldi & Trifone
-2014-11-22,Pedro Rocha
-2014-11-29,Steve Hefferman
-2014-12-12,Andy Boyce
-2014-12-24,Nigel Sharpe
-2014-12-29,Joseph Miner
-2014-12-29,Robert Gumpright
-2014-12-30,Ryan McAlister
+date,name,currency,amount
+2014-01-01,[CodeLathe LLC](http://www.tonido.com/),U.S. Dollars,
+2014-01-23,Geoff Mulhall,U.S. Dollars,
+2014-01-26,Fabio Toffolo,U.S. Dollars,
+2014-02-09,Bruce McLendon,U.S. Dollars,
+2014-03-14,Dimitrios Valsamis,U.S. Dollars,
+2014-03-17,Eleanor Batchelder,U.S. Dollars,
+2014-03-29,Pascal Fürhoff,U.S. Dollars,
+2014-04-04,Panos Sapikas,U.S. Dollars,
+2014-04-15,Panagiotis Sapikas,U.S. Dollars,
+2014-04-16,Jean-François GATEAU,U.S. Dollars,
+2014-04-29,Janos Horvath,U.S. Dollars,
+2014-06-17,Douglas R Taylor,U.S. Dollars,
+2014-06-23,Sasa Mrvos,U.S. Dollars,
+2014-06-27,Xiaoyun Wang,U.S. Dollars,
+2014-07-14,marco secchi,U.S. Dollars,
+2014-07-30,Ken Huband,U.S. Dollars,
+2014-08-02,巩 固,U.S. Dollars,
+2014-08-04,Matt Young,U.S. Dollars,
+2014-08-04,Михаил Зайченко,U.S. Dollars,
+2014-08-07,Adam Gallagher,U.S. Dollars,
+2014-08-19,barry plotkind,U.S. Dollars,
+2014-08-19,Jiri Pitzmos,U.S. Dollars,
+2014-08-27,Jasmine Glaese,U.S. Dollars,
+2014-08-30,Alain Scheidle,U.S. Dollars,
+2014-08-30,Frédéric Vandendris,U.S. Dollars,
+2014-08-31,Chris Butler,U.S. Dollars,
+2014-09-05,Abdul Malik,U.S. Dollars,
+2014-09-08,Michael Schickenberg,U.S. Dollars,
+2014-09-24,Glenn Silberman,U.S. Dollars,
+2014-10-01,Gerardo Villalobos Pineda,U.S. Dollars,
+2014-10-02,Javier LLaneza Braña,U.S. Dollars,
+2014-10-12,Michael Creswell,U.S. Dollars,
+2014-10-15,Martin Freye,U.S. Dollars,
+2014-10-30,Franciscus Johannes van der Loo,U.S. Dollars,
+2014-11-11,Michel Aroichane,U.S. Dollars,
+2015-11-04,Carl Bolling,U.S. Dollars,
+2015-11-04,Alain Rouault,U.S. Dollars,
+2014-11-04,David Tomlin,U.S. Dollars,
+2014-11-04,SERGIO M.ARANDA,U.S. Dollars,
+2014-11-05,Petr Prikryl,U.S. Dollars,
+2014-11-12,LA CASTELLINA snc di Cappelli Faldi & Trifone,U.S. Dollars,
+2014-11-22,Pedro Rocha,U.S. Dollars,
+2014-11-29,Steve Hefferman,U.S. Dollars,
+2014-12-12,Andy Boyce,U.S. Dollars,
+2014-12-24,Nigel Sharpe,U.S. Dollars,
+2014-12-29,Joseph Miner,U.S. Dollars,
+2014-12-29,Robert Gumpright,U.S. Dollars,
+2014-12-30,Ryan McAlister,U.S. Dollars,
