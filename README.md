@@ -1,6 +1,7 @@
 sponsors
 ========
 
+#### [Year of 2016](2016.csv)
 #### [Year of 2015](2015.csv)
 #### [Year of 2014](2014.csv)
 
