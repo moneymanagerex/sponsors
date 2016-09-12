@@ -1,58 +1,63 @@
 date, name, currency, amount
-2016-01-02,Fabio Giorgieri,U.S. Dollars,10
-2016-01-03,BRET ADAMS,U.S. Dollars,10
-2016-01-05,Vic Forte,U.S. Dollars,15
-2016-01-05,Osman Goni,U.S. Dollars,5
-2016-01-07,Dorothy Dean,U.S. Dollars,50
-2016-01-07,veli tokmen,U.S. Dollars,20
-2016-01-08,CARLOS MARTIN RECIO,U.S. Dollars,15
-2016-01-08,Garry Smith,U.S. Dollars,10
-2016-01-15,Angela Ruyle,U.S. Dollars,20
-2016-01-17,Gisèle Turcotte,U.S. Dollars,30
-2016-01-26,Sihar Simbolon,U.S. Dollars,4
-2016-01-28,Jesus Pinto Cosgaya,U.S. Dollars,10
-2016-02-03,Ian Shaw,U.S. Dollars,20
-2016-02-15,ĽUBOMÍR NIKOLÍNI,U.S. Dollars,10
-2016-02-15,Michael Sirna,U.S. Dollars,10
-2016-02-18,Random Netzley,U.S. Dollars,15
-2016-02-26,James Mork,U.S. Dollars,10
-2016-02-27,Csaba Bihari,U.S. Dollars,15
-2016-02-27,Pedro Pires,U.S. Dollars,10
-2016-02-29,Thomas Crawley,U.S. Dollars,20
-2016-03-01,Massimo BORSETTO,U.S. Dollars,5
-2016-03-03,José Hamilton Rosário,U.S. Dollars,5
-2016-03-06,Hany ElHawary,U.S. Dollars,30
-2016-03-08,Richard Clegg,U.S. Dollars,2
-2016-03-27,Philip Cook,U.S. Dollars,15
-2016-03-27,Rudolf Leuenberger,U.S. Dollars,10
-2016-03-29,JHM Designs Publications,U.S. Dollars,15
-2016-04-01,Vic Forte,U.S. Dollars,15
-2016-04-06,Carlo Basile,U.S. Dollars,10
-2016-04-07,Christophe Pot,U.S. Dollars,20
-13.04.2016,Marcin Magnus,U.S. Dollars,5
-17.04.2016,Gernie Melliza,U.S. Dollars,5
-03.05.2016,Annaclerio Cattelan,U.S. Dollars,5
-06.05.2016,Sean Baber,U.S. Dollars,7.5
-17.05.2016,nasser kaviani,U.S. Dollars,20
-18.05.2016,Robert Edser,U.S. Dollars,10
-18.05.2016,alain benzimra,U.S. Dollars,5
-21.05.2016,Mark Balko,U.S. Dollars,25
-26.05.2016,Johannes Traxler,U.S. Dollars,20
-26.05.2016,Isabel Pires Monteiro,U.S. Dollars,1
-28.05.2016,Wiesław Stawiszyński,U.S. Dollars,10
-29.05.2016,Eduardo Siri,U.S. Dollars,10
-02.06.2016,Eric PINCHON,U.S. Dollars,30
-06.06.2016,Étienne Bourgeois,U.S. Dollars,20
-09.06.2016,Sergii Stepanchuk,U.S. Dollars,10
-19.06.2016,Francois Verret,U.S. Dollars,20
-23.06.2016,伊筠 錢,U.S. Dollars,10
-08.07.2016,Emanuele Pizzurno,U.S. Dollars,10
-08.07.2016,Jean Paul Dion,U.S. Dollars,50
-09.07.2016,Steven Godfrey,U.S. Dollars,5
-09.07.2016,VSP AVVO,U.S. Dollars,30
-10.07.2016,Pinhas Gold,U.S. Dollars,25
-10.07.2016,Jose Manuel Marrero León,U.S. Dollars,5
-11.07.2016,Athanasios Tsoutsaios,U.S. Dollars,10
-20.07.2016,Irene Dunn,U.S. Dollars,10
-03.08.2016,Franck Vilenstein,U.S. Dollars,5
-
+2016-01-02,Fabio Giorgieri,USD,10
+2016-01-03,BRET ADAMS,USD,10
+2016-01-05,Vic Forte,USD,15
+2016-01-05,Osman Goni,USD,5
+2016-01-07,Dorothy Dean,USD,50
+2016-01-07,veli tokmen,USD,20
+2016-01-08,CARLOS MARTIN RECIO,USD,15
+2016-01-08,Garry Smith,USD,10
+2016-01-15,Angela Ruyle,USD,20
+2016-01-17,Gisèle Turcotte,USD,30
+2016-01-26,Sihar Simbolon,USD,4
+2016-01-28,Jesus Pinto Cosgaya,USD,10
+2016-02-03,Ian Shaw,USD,20
+2016-02-15,ĽUBOMÍR NIKOLÍNI,USD,10
+2016-02-15,Michael Sirna,USD,10
+2016-02-18,Random Netzley,USD,15
+2016-02-26,James Mork,USD,10
+2016-02-27,Csaba Bihari,USD,15
+2016-02-27,Pedro Pires,USD,10
+2016-02-29,Thomas Crawley,USD,20
+2016-03-01,Massimo BORSETTO,USD,5
+2016-03-03,José Hamilton Rosário,USD,5
+2016-03-06,Hany ElHawary,USD,30
+2016-03-08,Richard Clegg,USD,2
+2016-03-27,Philip Cook,USD,15
+2016-03-27,Rudolf Leuenberger,USD,10
+2016-03-29,JHM Designs Publications,USD,15
+2016-04-01,Vic Forte,USD,15
+2016-04-06,Carlo Basile,USD,10
+2016-04-07,Christophe Pot,USD,20
+13.04.2016,Marcin Magnus,USD,5
+17.04.2016,Gernie Melliza,USD,5
+03.05.2016,Annaclerio Cattelan,USD,5
+06.05.2016,Sean Baber,USD,7.5
+17.05.2016,nasser kaviani,USD,20
+18.05.2016,Robert Edser,USD,10
+18.05.2016,alain benzimra,USD,5
+21.05.2016,Mark Balko,USD,25
+26.05.2016,Johannes Traxler,USD,20
+26.05.2016,Isabel Pires Monteiro,USD,1
+28.05.2016,Wiesław Stawiszyński,USD,10
+29.05.2016,Eduardo Siri,USD,10
+02.06.2016,Eric PINCHON,USD,30
+06.06.2016,Étienne Bourgeois,USD,20
+09.06.2016,Sergii Stepanchuk,USD,10
+19.06.2016,Francois Verret,USD,20
+23.06.2016,伊筠 錢,USD,10
+08.07.2016,Emanuele Pizzurno,USD,10
+08.07.2016,Jean Paul Dion,USD,50
+09.07.2016,Steven Godfrey,USD,5
+09.07.2016,VSP AVVO,USD,30
+10.07.2016,Pinhas Gold,USD,25
+10.07.2016,Jose Manuel Marrero León,USD,5
+11.07.2016,Athanasios Tsoutsaios,USD,10
+20.07.2016,Irene Dunn,USD,10
+03.08.2016,Franck Vilenstein,USD,5
+17.08.2016,Gary Ferland,USD,20
+19.08.2016,Style Scissors,USD,5
+23.08.2016,Gábor Glück,USD,50
+24.08.2016,Halidou ROUAMBA,USD,5
+25.08.2016,José Hamilton Rosário,USD,5
+11.09.2016,Blair Boyle,USD,15
