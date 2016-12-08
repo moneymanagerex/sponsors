@@ -4,7 +4,7 @@ date, name, currency, amount
 2016-01-05,Vic Forte,USD,15
 2016-01-05,Osman Goni,USD,5
 2016-01-07,Dorothy Dean,USD,50
-2016-01-07,veli tokmen,USD,20
+2016-01-07,Veli Tokmen,USD,20
 2016-01-08,CARLOS MARTIN RECIO,USD,15
 2016-01-08,Garry Smith,USD,10
 2016-01-15,Angela Ruyle,USD,20
@@ -33,9 +33,9 @@ date, name, currency, amount
 2016-04-17,Gernie Melliza,USD,5
 2016-05-03,Annaclerio Cattelan,USD,5
 2016-05-06,Sean Baber,USD,7.5
-2016-05-17,nasser kaviani,USD,20
+2016-05-17,Nasser Kaviani,USD,20
 2016-05-18,Robert Edser,USD,10
-2016-05-18,alain benzimra,USD,5
+2016-05-18,Alain Benzimra,USD,5
 2016-05-21,Mark Balko,USD,25
 2016-05-26,Johannes Traxler,USD,20
 2016-05-26,Isabel Pires Monteiro,USD,1
@@ -69,7 +69,7 @@ date, name, currency, amount
 2016-10-09,Andinet Shiferaw,USD,4
 2016-10-13,H John Boeschen,USD,10
 2016-10-19,Harvey Brewer,USD,30
-2016-10-21,sabine Duchesne,USD,10
+2016-10-21,Sabine Duchesne,USD,10
 2016-10-23,Mimi Barbier,USD,10
 2016-11-03,Andras Radacsi,USD,12
 2016-11-07,Clément Martin,USD,10
@@ -81,4 +81,3 @@ date, name, currency, amount
 2016-11-29,Paolo Marchiori,USD,10
 2016-12-02,Peter Helfer,USD,50
 2016-12-05,Hubert Behmer,USD,20
-
