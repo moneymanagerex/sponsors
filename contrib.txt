@@ -194,6 +194,12 @@ http://www.famfamfam.com/lab/icons/silk
 80. Paolo Marchiori
 81. Peter Helfer
 82. Hubert Behmer
+83. Andreas Löwenhagen
+84. Eduardo Siri
+85. Del Hardesty
+86. Alberto Ghilardi
+87. Horst Weber
+88. Marius Raht
 
 2015
 1. Heinrich Hasler
